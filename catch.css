@@ -1,0 +1,17 @@
+body{
+    margin:0px;
+    background-color: rgb(46,39,60, 0.3);
+}
+
+
+#box{
+    position:absolute;
+    height:150px;
+    width:150px;
+    background-color:  rgb(66,0,90, 0.5) ;
+    font-size: 1.2rem;
+    padding:4px;
+    text-align:center;
+    box-sizing:border-box;
+    border-radius: 20px;
+}
